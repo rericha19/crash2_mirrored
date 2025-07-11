@@ -1,19 +1,11 @@
 rebuild
 C:\Users\samo1\Desktop\c2_flipped\rebuilds\02_snowgo\vanil01.NSF
 E
--
-1
+C:\Users\samo1\Desktop\c2_flipped\S0
+0
 4
 1
 "C:\Users\samo1\Desktop\c2_flipped\rebuilds\02_snowgo\[0E] snow go perma list.txt"
-"C:\Users\samo1\Desktop\c2_flipped\rebuilds\02_snowgo\[00] general subtype dependency list.txt"
--
--
-8000
-8000
-8000
-3
-0
 0
 20
 3000
