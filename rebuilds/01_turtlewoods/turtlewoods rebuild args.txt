@@ -1,0 +1,22 @@
+rebuild
+C:\Users\samo1\Desktop\c2_flipped\rebuilds\01_turtlewoods\vanil01.NSF
+1E
+-
+1
+5
+1
+"C:\Users\samo1\Desktop\c2_flipped\rebuilds\01_turtlewoods\[1E] turtle woods perma list.txt"
+"C:\Users\samo1\Desktop\c2_flipped\rebuilds\01_turtlewoods\[00] general subtype dependency list.txt"
+-
+-
+7000
+6000
+8000
+3
+0
+0
+20
+2000
+2.50
+0
+4
