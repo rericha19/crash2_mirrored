@@ -1,0 +1,14 @@
+rebuild
+C:\Users\samo1\Desktop\c2_flipped\rebuilds\05_crashdash\vanil01.NSF
+18
+C:\Users\samo1\Desktop\c2_flipped\S0
+0
+5
+1
+"C:\Users\samo1\Desktop\c2_flipped\rebuilds\05_crashdash\[18] crash dash perma list.txt"
+0
+20
+4000
+2.50
+0
+4
