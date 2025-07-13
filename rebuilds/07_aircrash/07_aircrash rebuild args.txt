@@ -1,0 +1,14 @@
+rebuild
+C:\Users\samo1\Desktop\c2_flipped\rebuilds\07_aircrash\vanil01.NSF
+20
+-
+0
+5
+1
+"C:\Users\samo1\Desktop\c2_flipped\rebuilds\07_aircrash\[20] air crash perma list.txt"
+0
+20
+4000
+2.50
+0
+4

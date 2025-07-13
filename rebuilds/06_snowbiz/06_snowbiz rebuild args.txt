@@ -1,0 +1,14 @@
+rebuild
+C:\Users\samo1\Desktop\c2_flipped\rebuilds\06_snowbiz\vanil01.NSF
+11
+C:\Users\samo1\Desktop\c2_flipped\S0
+0
+5
+1
+"C:\Users\samo1\Desktop\c2_flipped\rebuilds\06_snowbiz\[11] snow biz perma list.txt"
+0
+20
+3000
+2.50
+0
+4
